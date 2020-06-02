@@ -1,5 +1,5 @@
 {
-    "name": "tarifhaus/doctrine-nullable-embeddable",
+    "name": "20uf/doctrine-nullable-embeddable",
     "description": "A workaround implementation for nullable embeddables in Doctrine entities.",
     "license": "MIT",
 
